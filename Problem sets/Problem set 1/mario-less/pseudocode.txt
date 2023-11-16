@@ -1,0 +1,7 @@
+1. Initialize "height" and "spaces" variables
+2. Get "height", this integer needs to be between 1 and 8.
+3. Get "spaces", at first the value will be = height - 1.
+4. Iterate from 1 through "height":
+    4.1 Print the spaces.
+    4.2 Printh the hashes.
+    4.3 Reduce number of spaces.
